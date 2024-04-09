@@ -51,13 +51,3 @@ To run the game locally, follow these steps:
 
 - Use the left and right arrow keys to move the player spaceship.
 - Press the spacebar to fire bullets.
-
-## Credits
-
-- Sound effects obtained from [OpenGameArt.org](https://opengameart.org/)
-- Background image sourced from [Unsplash](https://unsplash.com/)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
